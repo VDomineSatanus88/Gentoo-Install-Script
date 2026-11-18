@@ -1,5 +1,5 @@
 # Gentoo-Install-Script
-An install script setup for Niri with Dux Material Shell.
+An install script setup for Niri with Dux Modular Shell.
 
 How to install (I recommend trying it on a VM)
 1. Save the script.
@@ -12,4 +12,4 @@ How to install (I recommend trying it on a VM)
 8. Run lsblk to find your drive for your VM...such as /dev/vda.
 9. Then run the script with this command replacing /dev/vda with your actual drive...DISK=/dev/vda NEW_USER=yourname NEW_HOST=gentoo ./gentoo-niri-install.sh
 10. It'll ask you to set up a root and user password at the end...and then it should finish completing the script.
-11. Once finished you should be able to simply reboot into the Niri Session running Dux Material Shell.
+11. Once finished you should be able to simply reboot into the Niri Session running Dux Modular Shell.
